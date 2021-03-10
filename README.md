@@ -1,2 +1,2 @@
-# MC5-grenciTakip-Sistemi
+# MC5-ÖgrenciTakip-Sistemi
 Ögrenci takip
